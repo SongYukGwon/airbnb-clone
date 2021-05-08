@@ -34,7 +34,7 @@ class Amenity(AbstractItem):
     """Amenity Object Definition"""
 
     class Meta:
-        verbose_name_plural = "Amenties"
+        verbose_name_plural = "Amenities"
 
 
 class Facility(AbstractItem):
